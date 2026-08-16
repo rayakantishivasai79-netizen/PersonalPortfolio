@@ -1,0 +1,11 @@
+Your actual resume PDF was not included in this project (it wasn't uploaded as a file).
+
+To make the "Download Resume" button work:
+
+1. Rename your resume PDF to: resume.pdf
+2. Place it in this folder: frontend/assets/
+   (so the final path is frontend/assets/resume.pdf)
+3. You can then delete this text file.
+
+Do not replace this with a fake/placeholder resume — leave the button
+pointing here until you add your real file.
